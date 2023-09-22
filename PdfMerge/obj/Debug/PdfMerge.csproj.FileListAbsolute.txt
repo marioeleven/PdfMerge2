@@ -1,0 +1,10 @@
+C:\Users\mario\RiderProjects\PdfMerge\PdfMerge\bin\Debug\PdfMerge.exe
+C:\Users\mario\RiderProjects\PdfMerge\PdfMerge\bin\Debug\PdfMerge.pdb
+C:\Users\mario\RiderProjects\PdfMerge\PdfMerge\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\mario\RiderProjects\PdfMerge\PdfMerge\bin\Debug\itextsharp.dll
+C:\Users\mario\RiderProjects\PdfMerge\PdfMerge\bin\Debug\itextsharp.xml
+C:\Users\mario\RiderProjects\PdfMerge\PdfMerge\obj\Debug\PdfMerge.csproj.AssemblyReference.cache
+C:\Users\mario\RiderProjects\PdfMerge\PdfMerge\obj\Debug\PdfMerge.csproj.CoreCompileInputs.cache
+C:\Users\mario\RiderProjects\PdfMerge\PdfMerge\obj\Debug\PdfMerge.csproj.CopyComplete
+C:\Users\mario\RiderProjects\PdfMerge\PdfMerge\obj\Debug\PdfMerge.exe
+C:\Users\mario\RiderProjects\PdfMerge\PdfMerge\obj\Debug\PdfMerge.pdb
